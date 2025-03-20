@@ -1,5 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Montserrat:wght@400;600&display=swap');
+
 body {
-    font-family: 'Inter', sans-serif; /* Change 'Inter' to another font */
-    font-size: 16px;
-    color: #333; /* Text color */
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
