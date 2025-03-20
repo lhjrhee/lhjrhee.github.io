@@ -1,4 +1,4 @@
-###########################################################
+r###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
@@ -21,10 +21,10 @@ author: Hyunjeong "Lacy" Rhee
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "lhjrhee.github.io"
+  Research:
+    - Publications: "https://beautifuljekyll.com"
+    - Google Scholar: "https://scholar.google.com/citations?user=4LAPKtYAAAAJ&"
+  #Author's home: "lhjrhee.github.io"
 
 ################
 # --- Logo --- #
