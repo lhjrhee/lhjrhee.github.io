@@ -1,7 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: 
+permalink: /aboutme/
+---
+
+
 ---
 
 My name is Hyunjeong "Lacy" Rhee.
