@@ -23,7 +23,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hjrhee/)!
 - **September 2020 - September 2022 - Merchandiser, [CJ Olive Young](https://global.oliveyoung.com/)**
 
 - **November 2019 - April 2020 - MD Assistant, [SEPHORA](https://www.businessoffashion.com/news/beauty/sephora-korea-closing/) Korea**
-- **November 2018 - October 2019 - Buying Assistant, SAMSUNG C&T Fashion Division, Brand [SUITSUPPLY] (https://suitsupply.com/en-us/stores/south-korea)**
+- **November 2018 - October 2019 - Buying Assistant, SAMSUNG C&T Fashion Division, Brand [SUITSUPPLY](https://suitsupply.com/en-us/stores/south-korea)**
 
 
 
