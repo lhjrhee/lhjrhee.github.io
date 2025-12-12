@@ -6,12 +6,20 @@ permalink: /aboutme/
 
 
 ---
-
-My name is Hyunjeong "Lacy" Rhee.
-
-I am a PhD student at the University of Missouri, in Human and Environmental Sciences, with an emphasis on Textile and Apparel Management.
-My research interests focus on:
-- Computational methods in fashion industry research
-- Consumer behavior; technology resistance and persuasion coping strategies
-
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hjrhee/)!
+
+## Timeline
+
+- **August 2024 — Started PhD at the University of Missouri**  
+  Emphasis on Textile & Apparel Management.
+
+- **August 2024 — Completed Master's at Hanyang University, South Korea**  
+  Advisor: Dr. Kyu-Hye Lee.
+
+- **September 2022  — Research experience in consumer behavior & technology**
+  Began Master's Program in Human-Tech Convergence, Dept. of Clothing and Textiles
+  
+- **September 2020 - September 2022 - Merchansider, CJ Olive Young**
+
+
+
