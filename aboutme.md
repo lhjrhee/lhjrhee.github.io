@@ -11,15 +11,16 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hjrhee/)!
 ## Timeline
 
 - **August 2024 — Started PhD at the University of Missouri**  
-  Emphasis on Textile & Apparel Management.
+  Emphasis on Textile & Apparel Management, Human Environmental Sciences.
+  Data Science and Analytics Graduate Certificate (In Progress)
+  Advisor: Dr. Li Zhao
 
 - **August 2024 — Completed Master's at Hanyang University, South Korea**  
   Advisor: Dr. Kyu-Hye Lee.
 
-- **September 2022  — Research experience in consumer behavior & technology**
-  Began Master's Program in Human-Tech Convergence, Dept. of Clothing and Textiles
+- **September 2022 - August 2024 — M.S., Human-Tech Convergence, Dept. of Clothing and Textiles**
   
-- **September 2020 - September 2022 - Merchansider, CJ Olive Young**
+- **September 2020 - September 2022 - Merchandiser, [CJ Olive Young](https://global.oliveyoung.com/)**
 
 
 
