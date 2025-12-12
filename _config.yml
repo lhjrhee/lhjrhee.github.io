@@ -20,11 +20,15 @@ author: Hyunjeong "Lacy" Rhee
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/aboutme/"
+  Research: "/research/"
+  Teaching: "/teaching/"
+  Home: "/"
   Research:
     - Publications: "https://beautifuljekyll.com"
     - Google Scholar: "https://scholar.google.com/citations?user=4LAPKtYAAAAJ&"
   Author's home: "lhjrhee.github.io"
+
 
 ################
 # --- Logo --- #
